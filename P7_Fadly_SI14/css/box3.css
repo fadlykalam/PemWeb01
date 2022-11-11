@@ -1,0 +1,59 @@
+.th1{
+    width: 160px;
+    height: 70px;
+    border: 2px solid black;
+    background-color: yellow;
+    position: relative;
+    top: 13px;
+    left: 10px;
+
+}
+.th2{
+    width: 1140px;
+    height: 70px;
+    border: 2px solid black;
+    background-color: red;
+    position: relative;
+    bottom: 61px;
+    left: 190px;
+
+}
+.th3{
+    width: 160px;
+    height: 440px;
+    border: 2px solid black;
+    background-color: greenyellow;
+    position: relative;
+    left: 10px;
+    bottom: 50px;
+
+}
+.th4{
+    width: 960px;
+    height: 440px;
+    border: 2px solid black;
+    background-color: grey;
+    position: relative;
+    left: 190px;
+    bottom: 494px;
+
+}
+.th5{
+    width: 160px;
+    height: 440px;
+    border: 2px solid black;
+    background-color: aqua;
+    position: relative;
+    left: 1169px;
+    bottom: 939px;
+}
+.th6{
+    width: 1321px;
+    height: 60px;
+    border: 2px solid black;
+    background-color: blue;
+    position: relative;
+    left: 9px;
+    bottom: 928px;
+
+}
